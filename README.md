@@ -9,3 +9,6 @@ Conditional statements and loops: https://jovian.ai/aakashns/python-branching-an
 
 # Resources
 Data Analysis with Python: Zero to Pandas https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
+Python Tutorial at W3Schools: https://www.w3schools.com/python/
+Practical Python Programming: https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+Python official documentation: https://docs.python.org/3/tutorial/index.html
