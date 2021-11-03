@@ -21,3 +21,4 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 ### Lesson: 
 1. Relearning the basics of python such as the variable, data type andconditional statement and loop.
 2. Learn what jupyter notebook and visual code all about and how to install them on the machine.
+3. Build a time calculator using python https://github.com/anafisad/My-Journey-into-Data-Science/blob/main/Project/python/time%20calculator
