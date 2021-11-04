@@ -23,4 +23,5 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 2. Learn what jupyter notebook and visual code all about and how to install them on the machine.
 3. Build a time calculator using python https://github.com/anafisad/My-Journey-into-Data-Science/blob/main/Project/python/time%20calculator
 4. Work with boolean function and conditional statement on jupyter notebook.
-5. Pratice data type and method fuction on jupyter
+5. Pratice data type and method fuction on jupyter.
+6. Learn about operator, data structure.
