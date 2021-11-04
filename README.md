@@ -19,6 +19,8 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 ***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-1-introduction-to-programming-with-python
 
 ### Lesson: 
-1. Relearning the basics of python such as the variable, data type andconditional statement and loop.
+1. Relearning the basics of python such as the variable, data type and conditional statement and loop.
 2. Learn what jupyter notebook and visual code all about and how to install them on the machine.
 3. Build a time calculator using python https://github.com/anafisad/My-Journey-into-Data-Science/blob/main/Project/python/time%20calculator
+4. Work with boolean function and conditional statement on jupyter notebook.
+5. Pratice data type and method fuction on jupyter
