@@ -30,13 +30,33 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 ### Note: I spent 4 hour on learning about pyhton, code a time calculator from scratch and documenting my journey here on GitHub.
 
 
-## Week 1: 01 of novemeber 2021 to November 8 2021
+## Week 2: 09 of novemeber 2021 to November 13 2021
 
-***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-2-next-steps-with-python
+***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-3-numerical-computing-with-numpy + https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-4-analyzing-tabular-data-with-pandas
 
 ### Lesson: 
-1. Learning the basic of Branching with if, else and elif
-2. Learning the basic of Nested conditions and if expressions
-3. Learning the basic of Iteration with while loops
-4. Learning the basic of Iterating over containers with for loops
-5. Learning the basic of Nested loops, break and continue statements
+1. Working with numerical data in Python
+2. Going from Python lists to Numpy arrays
+3. Multi-dimensional Numpy arrays and their benefits
+4. Array operations, broadcasting, indexing, and slicing
+5. Working with CSV data files using Numpy
+6. Reading a CSV file into a Pandas data frame
+7. Retrieving data from Pandas data frames
+8. Querying, soring, and analyzing data
+9. Merging, grouping, and aggregation of data
+10. Extracting useful information from dates
+11. Basic plotting using line and bar charts
+12. Writing data frames to CSV files
+
+
+## Week 4: 21 of novemeber 2021 to November 26 2021
+
+***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-5-data-visualization-with-matplotlib-and-seaborn
+
+### Lesson: 
+1. Creating and customizing line charts using Matplotlib
+2. Visualizing relationships between two or more variables using scatter plots
+3. Studying distributions of variables using histograms & bar charts to
+4. Visualizing two-dimensional data using heatmaps
+5. Displaying images using Matplotlib's plt.imshow
+6. Plotting multiple Matplotlib and Seaborn charts in a grid
