@@ -6,13 +6,23 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 - First steps with Python: https://jovian.ai/aakashns/first-steps-with-python
 - Variables and data types: https://jovian.ai/aakashns/python-variables-and-data-types
 - Conditional statements and loops: https://jovian.ai/aakashns/python-branching-and-loops
+- Functions and scope: https://jovian.ai/aakashns/python-functions-and-scope
+- Working with OS & files: https://jovian.ai/aakashns/python-os-and-filesystem
+- Numerical computing with Numpy: https://jovian.ai/aakashns/python-numerical-computing-with-numpy
+- 100 Numpy exercises: https://jovian.ai/aakashns/100-numpy-exercises
+- Analyzing tabular data with Pandas: https://jovian.ai/aakashns/python-pandas-data-analysis
+- Matplotlib & Seaborn tutorial: https://jovian.ai/aakashns/python-matplotlib-data-visualization
+- Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
+- Data Science for everyone : https://www.datacamp.com/courses/data-science-for-everyone/
 
 ## Resources
 - Data Analysis with Python: Zero to Pandas https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
 - Python Tutorial at W3Schools: https://www.w3schools.com/python/
 - Practical Python Programming: https://dabeaz-course.github.io/practical-python/Notes/Contents.html
 - Python official documentation: https://docs.python.org/3/tutorial/index.html
-
+- Seaborn gallery: https://seaborn.pydata.org/examples/index.html
+- Matplotlib gallery: https://matplotlib.org/3.1.1/gallery/index.html
+- Matplotlib tutorial: https://github.com/rougier/matplotlib-tutorial
 
 ## Week 1: 01 of novemeber 2021 to November 8 2021
 
@@ -60,3 +70,21 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 4. Visualizing two-dimensional data using heatmaps
 5. Displaying images using Matplotlib's plt.imshow
 6. Plotting multiple Matplotlib and Seaborn charts in a grid
+
+
+
+## Week 5: 27 of novemeber 2021 to November 31 2021
+
+##***Note:*** I won a scholarship to study data science on Data Camp by Ingressive, due to that reason, i decided to focus my time using data camp and working on the jovian assignement as that what left for me on Jovian
+
+***This week Progress:** Datacamp Data Science Course
+
+### Lesson: 
+1. Learn the defintion of data science is.
+2. Learn data science workflow
+3. How data science is applied to real-world problems
+4. Learning about different roles within the data science field
+5. Learning about the different data sources you can draw from
+6. Learning what that data looks like
+7. Learning how to store the data once it's collected
+8. Learning how a data pipeline can automate the process.
