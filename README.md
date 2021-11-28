@@ -61,7 +61,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 
 ## Week 4: 21 of novemeber 2021 to November 26 2021
 
-***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-5-data-visualization-with-matplotlib-and-seaborn
+**This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-5-data-visualization-with-matplotlib-and-seaborn
 
 ### Lesson: 
 1. Creating and customizing line charts using Matplotlib
@@ -75,9 +75,10 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 
 ## Week 5: 27 of novemeber 2021 to November 31 2021
 
-##***Note:*** I won a scholarship to study data science on Data Camp by Ingressive, due to that reason, i decided to focus my time using data camp and working on the jovian assignement as that what left for me on Jovian
+## Note
+I won a scholarship to study data science on Data Camp by Ingressive, due to that reason, i decided to focus my time using data camp and working on the jovian assignement
 
-***This week Progress:** Datacamp Data Science Course
+**This week Progress:** Datacamp Data Science Course
 
 ### Lesson: 
 1. Learn the defintion of data science is.
