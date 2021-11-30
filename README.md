@@ -14,6 +14,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 - Matplotlib & Seaborn tutorial: https://jovian.ai/aakashns/python-matplotlib-data-visualization
 - Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
 - Data Science for everyone : https://www.datacamp.com/courses/data-science-for-everyone/
+- Data visualization https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-distributions?ex=1
 
 ## Resources
 - Data Analysis with Python: Zero to Pandas https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
@@ -88,4 +89,7 @@ I won a scholarship to study data science on Data Camp by Ingressive, due to tha
 5. Learning about the different data sources you can draw from
 6. Learning what that data looks like
 7. Learning how to store the data once it's collected
-8. Learning how a data pipeline can automate the process.
+8. Learning how a data pipeline can automate the process
+9. Learning how to choose an appropriate plot to answer common questions about different data types
+10. Learning how to interpret common plot types like histograms, box plots, scatter plots, line plots, and bar plots. 
+11. Learning about best practices for drawing plots, and how to avoid pitfalls
