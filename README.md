@@ -85,11 +85,14 @@ I won a scholarship to study data science on Data Camp by Ingressive, due to tha
 1. Learn the defintion of data science is.
 2. Learn data science workflow
 3. How data science is applied to real-world problems
-4. Learning about different roles within the data science field
-5. Learning about the different data sources you can draw from
-6. Learning what that data looks like
-7. Learning how to store the data once it's collected
-8. Learning how a data pipeline can automate the process
-9. Learning how to choose an appropriate plot to answer common questions about different data types
-10. Learning how to interpret common plot types like histograms, box plots, scatter plots, line plots, and bar plots. 
-11. Learning about best practices for drawing plots, and how to avoid pitfalls
+4. Learned about different roles within the data science field
+5. Learned about the different data sources you can draw from
+6. Learned what that data looks like
+7. Learned how to store the data once it's collected
+8. Learned how a data pipeline can automate the process
+9. Learned how to choose an appropriate plot to answer common questions about different data types
+10. Learned how to interpret common plot types like histograms, box plots, scatter plots, line plots, and bar plots. 
+11. Learned about best practices for drawing plots, and how to avoid pitfalls
+12. Learned about histograms, box plots, scatter plots, trend plots, dots plots and pair plots and why to actually used them
+13. Learned about colour plot, correlation heatmap and rose plot
+14. Learned about some bad strategy that should be avoided when visualizing data
