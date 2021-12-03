@@ -15,6 +15,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 - Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
 - Data Science for everyone : https://www.datacamp.com/courses/data-science-for-everyone/
 - Data visualization https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-distributions?ex=1
+- Machine learning for everyone : https://campus.datacamp.com/courses/machine-learning-for-everyone/
 
 ## Resources
 - Data Analysis with Python: Zero to Pandas https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
@@ -96,3 +97,7 @@ I won a scholarship to study data science on Data Camp by Ingressive, due to tha
 12. Learned about histograms, box plots, scatter plots, trend plots, dots plots and pair plots and why to actually used them
 13. Learned about colour plot, correlation heatmap and rose plot
 14. Learned about some bad strategy that should be avoided when visualizing data
+15. Learning the basic behind machine learning
+16. Learning the different types of machine learning, as well as how to evaluate and improve your models.
+17. Understaning the basic of deep learning with neural network and looking at two common use-cases for deep learning: computer vision and natural language processing.
+18. Learning the danger behind deep learning
