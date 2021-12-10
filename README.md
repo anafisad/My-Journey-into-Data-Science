@@ -15,6 +15,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 - Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
 - Data Science for everyone : https://www.datacamp.com/courses/data-science-for-everyone/
 - Data visualization https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-distributions?ex=1
+- Python for data science https://campus.datacamp.com/courses/intro-to-python-for-data-science/
 - Machine learning for everyone : https://campus.datacamp.com/courses/machine-learning-for-everyone/
 
 ## Resources
@@ -26,7 +27,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 - Matplotlib gallery: https://matplotlib.org/3.1.1/gallery/index.html
 - Matplotlib tutorial: https://github.com/rougier/matplotlib-tutorial
 
-## Week 1: 01 of novemeber 2021 to November 8 2021
+## Week 1: 01 of Novemeber 2021 to November 8 2021
 
 ***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-1-introduction-to-programming-with-python
 
@@ -42,7 +43,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 ### Note: I spent 4 hour on learning about pyhton, code a time calculator from scratch and documenting my journey here on GitHub.
 
 
-## Week 2: 09 of novemeber 2021 to November 13 2021
+## Week 2: 09 of Novemeber 2021 to November 13 2021
 
 ***This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-3-numerical-computing-with-numpy + https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-4-analyzing-tabular-data-with-pandas
 
@@ -61,7 +62,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 12. Writing data frames to CSV files
 
 
-## Week 4: 21 of novemeber 2021 to November 26 2021
+## Week 4: 21 of Novemeber 2021 to November 26 2021
 
 **This week Progress:** Started Zero to Panda Course https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-5-data-visualization-with-matplotlib-and-seaborn
 
@@ -75,7 +76,7 @@ My Journey for sixty days of python coding-learning-debugging and data science c
 
 
 
-## Week 5: 27 of novemeber 2021 to November 31 2021
+## Week 5: 27 of Novemeber 2021 to November 31 2021
 
 ## Note
 I won a scholarship to study data science on Data Camp by Ingressive, due to that reason, i decided to focus my time using data camp and working on the jovian assignement
@@ -101,3 +102,23 @@ I won a scholarship to study data science on Data Camp by Ingressive, due to tha
 16. Learning the different types of machine learning, as well as how to evaluate and improve your models.
 17. Understaning the basic of deep learning with neural network and looking at two common use-cases for deep learning: computer vision and natural language processing.
 18. Learning the danger behind deep learning
+
+
+## Week 6: 01 of December 2021 to December 07 2021
+**This week Progress:**Data visualization and intro to python for data science intro 
+
+### Lesson: 
+1. Learned about powerful ways to store and manipulate data
+2. Learned how to use Python interactively and by using a script
+3. Learned about the helpful data science tools to begin conducting your own analyses
+4. Learned how to use functions, methods, and packages to efficiently leverage the code
+5. Putting what i have learn into pratice by assesement
+6. Learned to work with powerful tools in the NumPy array, and get started with data exploration.
+
+
+## Week 6: 08 of December 2021 to December 15 2021
+**This week Progress:**Machine learning for everyone 
+1. Learned what machine learning and its relation to data science and artificial intelligence
+2. Learned machine learning workflow
+3. Learned the type of machine learning model, how to improve and evalute them
+4. Learbed the basic of deep ,earning and exploring the two common use-cases for deep learning: computer vision and natural language processing
