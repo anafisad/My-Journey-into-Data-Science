@@ -126,4 +126,4 @@ I won a scholarship to study data science on Data Camp by Ingressive, due to tha
 
 ## Week 7 till week 30: 30 of December 2021
 I got tired of coming on Github for daily uodate.
-After week 15 of learning, the plan is to start working on project that would enhance my skill, for update check out polywork.com/anafisad
+After week 15 of learning, the plan is to start working on project that would enhance my skill, for update check out https://polywork.com/anafisad
