@@ -121,4 +121,9 @@ I won a scholarship to study data science on Data Camp by Ingressive, due to tha
 1. Learned what machine learning and its relation to data science and artificial intelligence
 2. Learned machine learning workflow
 3. Learned the type of machine learning model, how to improve and evalute them
-4. Learbed the basic of deep ,earning and exploring the two common use-cases for deep learning: computer vision and natural language processing
+4. Learned the basic of deep ,earning and exploring the two common use-cases for deep learning: computer vision and natural language processing
+
+
+## Week 7 till week 30: 30 of December 2021
+I got tired of coming on Github for daily uodate.
+After week 15 of learning, the plan is to start working on project that would enhance my skill, for update check out polywork.com/anafisad
